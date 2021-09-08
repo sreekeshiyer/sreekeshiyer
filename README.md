@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ---
 
 I'm Sreekesh, <br>
-I'm a Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time Live Streamer
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="height:20px;width:80px;align-items:center;justify-content:center;">
+I'm a Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time Live Streamer📡
 
 -   🔭 I’m currently working on a Next JS Project to find the best YouTube videos for developers.
 -   🌱 I’m currently learning AWS and Docker.
