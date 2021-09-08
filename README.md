@@ -43,6 +43,9 @@ I'm a Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time L
 
 <!-- ![Sreekesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&theme=github_dark) -->
 
+### Top Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekeshiyer&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
