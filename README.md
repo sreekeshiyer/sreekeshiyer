@@ -37,6 +37,11 @@ I'm a Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time L
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreekeshiyer&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+---
+
 ### Follow me on social media:
 
 <a href="https://www.instagram.com/sreekesh.this.side/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
