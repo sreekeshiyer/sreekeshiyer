@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-I'm <u>Sreekesh</u>, <br>
+I'm Sreekesh, <br>
 I'm a Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time Live Streamer📡
 
 -   🔭 I’m currently working on a Next JS Project to find the best YouTube videos for developers.
