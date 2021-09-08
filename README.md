@@ -41,7 +41,7 @@ I'm a Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time L
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreekeshiyer&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Sreekesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&theme=github_dark)
+<!-- ![Sreekesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&theme=github_dark) -->
 
 
 ---
