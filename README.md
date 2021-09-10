@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 <!--
-**sreekeshiyer/sreekeshiyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+**sreekeshiyer/sreekeshiyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,7 +39,7 @@ I'm a Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time L
 
 ### Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sreekeshiyer&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sreekeshiyer&theme=tokyonight_duo)](https://github-readme-streak-stats.herokuapp.com?user=sreekeshiyer&theme=tokyonight_duo)
 
 ![Sreekesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&theme=github_dark)
 
