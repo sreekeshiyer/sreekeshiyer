@@ -25,7 +25,7 @@
 
 ---
 
-<h2>My Stats<h2>
+<h2>My Stats</h2>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sreekeshiyer&" alt="sreekeshiyer" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&locale=en" alt="sreekeshiyer" /></p>
@@ -37,7 +37,6 @@
   <br>
   <br>
   <br>
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
