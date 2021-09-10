@@ -26,17 +26,13 @@
 ---
 
 <h2>My Stats</h2>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sreekeshiyer&" alt="sreekeshiyer" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sreekeshiyer&" alt="sreekeshiyer" />
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&locale=en" alt="sreekeshiyer" />
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekeshiyer&show_icons=true&locale=en&layout=compact" alt="sreekeshiyer" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&locale=en" alt="sreekeshiyer" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekeshiyer&show_icons=true&locale=en&layout=compact" alt="sreekeshiyer" /></p>
-
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <br><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
