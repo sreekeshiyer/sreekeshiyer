@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sreekeshiyer" target="blank"><img src="https://img.shields.io/twitter/follow/sreekeshiyer?logo=twitter&style=for-the-badge" alt="sreekeshiyer" /></a> </p>
 
-- 🔭 I’m currently working on **a Next JS Project to find the best YouTube videos for developers.**
+<!-- - 🔭 I’m currently working on **a Next JS Project to find the best YouTube videos for developers.** -->
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Docker**
 
 ---
 
