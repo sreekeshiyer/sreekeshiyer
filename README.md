@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer 🖥️, a Content Writer 📓 and also a part-time Live Streamer📡</h3>
 
 <p align="left"> <a href="https://twitter.com/sreekeshiyer" target="blank"><img src="https://img.shields.io/twitter/follow/sreekeshiyer?logo=twitter&style=for-the-badge" alt="sreekeshiyer" /></a> </p><br>
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+<p align="left"> <a href="https://sreekeshiyer.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="sreekeshiyer" /></a> </p><br>
 
 <!-- - 🔭 I’m currently working on **a Next JS Project to find the best YouTube videos for developers.** -->
 
