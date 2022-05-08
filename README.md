@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&theme=dracula&title_color=2e93ff&text_color=ffffff&locale=en" alt="sreekeshiyer" /></p>
  -->
- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&theme=tokyonight)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekeshiyer&show_icons=true&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreekeshiyer&theme=tokyonight" alt="sreekeshiyer" /></p>
 
 ---
