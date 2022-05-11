@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on **a Next JS Project to find the best YouTube videos for developers.** -->
 
-- 🌱 I’m currently **working on my Problem Solving Skills and making small projects in Python**
+- 🌱 I’m currently **learning how to use new services on AWS**
 
 ---
 
