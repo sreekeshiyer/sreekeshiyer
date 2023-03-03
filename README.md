@@ -3,7 +3,6 @@
 
 <p align="center"> 
 <a href="https://www.sreekeshiyer.live/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="website" /></a> 
-<a href="https://twitter.com/sreekeshiyer" target="_blank"><img src="https://img.shields.io/twitter/follow/sreekeshiyer?logo=twitter&style=for-the-badge" alt="sreekeshiyer" /></a> 
 <a href="https://blog.sreekesh.live/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="sreekeshiyer" /></a>
 </a> <a href="https://www.buymeacoffee.com/sreekeshiyer" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee" /></a>
 </a> <a href="https://discord.gg/FrqVVvbxnm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
