@@ -13,8 +13,7 @@ A little bit about myself and what I do -
 - 🧑‍🎓 Engineering Student (Final Year)
 - 🚀 Working on JAMStack (Next.js, Supabase and Services)
 - 🧑‍🔧 Fan of Microservices
-- ☁️ AWS Cloud Enthusiast
-- 🐬 Docker Captain
+- ☁️ AWS Community Builder
 
 ---
 
