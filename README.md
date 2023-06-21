@@ -10,7 +10,7 @@
 </p>
 
 A little bit about myself and what I do - 
-- 🧑‍🎓 Engineering Student (Final Year)
+- 🧑‍🎓 B.E. Information Technology
 - 🚀 Working on JAMStack (Next.js, Supabase and Services)
 - 🧑‍🔧 Fan of Microservices
 - ☁️ AWS Community Builder
