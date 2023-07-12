@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreekesh Iyer</h1>
-<h3 align="center">Full Stack Developer 🖥️ Content Writer 📓 Live Streamer📡</h3>
+<h3 align="center">Full Stack Developer 🖥️ Content Writer </h3>
 
 <p align="center"> 
 <a href="https://www.sreekeshiyer.live/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="website" /></a> 
@@ -11,8 +11,7 @@
 
 A little bit about myself and what I do - 
 - 🧑‍🎓 B.E. Information Technology
-- 🚀 Working on JAMStack (Next.js, Supabase and Services)
-- 🧑‍🔧 Fan of Microservices
+- 🚀 Working on JAMStack (Next.js, TailwindCSS, Supabase)
 - ☁️ AWS Community Builder
 
 ---
