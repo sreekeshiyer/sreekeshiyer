@@ -10,9 +10,9 @@
 </p>
 
 A little bit about myself and what I do - 
-- ‎‍💼 Software Engineer @ JP Morgan Chase & Co. 
-- 🧑‍🎓 B.E. Information Technology
-- 🚀 Working on JAMStack (Next.js, TailwindCSS, Supabase)
+- 🧑‍🎓 Pursuing M.Sc. Data Science @ Trinity College Dublin
+- ‎‍💼 Previously Software Engineer II @ JP Morgan Chase
+- 🚀 Working on Python, SQL and AWS
 - 🧡 AWS Community Builder
 
 ---
