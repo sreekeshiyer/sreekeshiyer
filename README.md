@@ -2,10 +2,8 @@
 <h3 align="center">Full Stack Developer 🖥️ Content Writer </h3>
 
 <p align="center"> 
-<a href="https://www.sreekeshiyer.live/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="website" /></a> 
-<a href="https://blog.sreekeshiyer.live/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="sreekeshiyer" /></a>
-</a> <a href="https://www.buymeacoffee.com/sreekeshiyer" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee" /></a>
-</a> <a href="https://discord.gg/FrqVVvbxnm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+<a href="https://www.sreekeshiyer.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="website" /></a> 
+<a href="https://blog.sreekeshiyer.com/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="sreekeshiyer" /></a>
 
 </p>
 
@@ -13,7 +11,7 @@ A little bit about myself and what I do -
 - 🧑‍🎓 Pursuing M.Sc. Data Science @ Trinity College Dublin
 - ‎‍💼 Previously Software Engineer II @ JP Morgan Chase
 - 🚀 Working on Python, SQL and AWS
-- 🧡 AWS Community Builder
+- 🧡 AWS Community Builder (4 Years)
 
 ---
 
@@ -70,6 +68,4 @@ These are some of the technologies that I work with almost every day.
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/sreekeshiyer)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreekeshiyer)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sreekeshiyer)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sreekeshiyer)
 
