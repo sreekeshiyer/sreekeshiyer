@@ -40,11 +40,11 @@ Worked on data engineering and technology initiatives within Corporate & Investm
 
 ## 🔬 Currently Exploring
 
-* **Data Engineering & Distributed Systems**
-* **Applied AI and LLM-based systems**
-* **Cloud-native architectures**
-* **Graph Neural Networks + Reinforcement Learning**
+* **Building Blocks of Data Science**
+* **What's New in AWS**
+* **Reinforcement Learning For Optimal Route Planning**
 * **Machine Learning for real-world optimisation problems**
+* **Quantum Computing Fundamentals**
 
 ---
 
