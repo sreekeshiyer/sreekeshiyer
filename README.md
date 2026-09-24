@@ -1,60 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sreekesh Iyer</h1>
-<h3 align="center">Full Stack Developer 🖥️ Content Writer </h3>
+# Hi, I'm Sreekesh Iyer 👋
 
-<p align="center"> 
-<a href="https://www.sreekeshiyer.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="website" /></a> 
-<a href="https://blog.sreekeshiyer.com/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="sreekeshiyer" /></a>
+**Software Engineer II · Data Engineering · Cloud · AI**
 
-</p>
+I'm a Software Engineer with **3 years of experience at JPMorganChase**, where I worked on production data and cloud systems supporting global financial markets and regulatory technology.
 
-A little bit about myself and what I do - 
-- 🧑‍🎓 Pursuing M.Sc. Data Science @ Trinity College Dublin
-- ‎‍💼 Previously Software Engineer II @ JP Morgan Chase
-- 🚀 Working on Python, SQL and AWS
-- 🧡 AWS Community Builder (4 Years)
+I'm currently pursuing an **MSc in Computer Science (Data Science) at Trinity College Dublin**, with a particular interest in **data engineering, distributed systems, cloud infrastructure, and applied AI**.
 
----
+### What I work with
 
-# Tech Stack
+**Languages**
+`Python` · `SQL` · `JavaScript` · `C++`
 
-These are some of the technologies that I work with almost every day.
+**Data & AI**
+`Data Engineering` · `ETL/ELT` · `LLMs` · `Agentic AI` · `Machine Learning`
 
-## Development
+**Cloud & Infrastructure**
+`AWS` · `S3` · `Lambda` · `RDS` · `SQS` · `Redshift` · `IAM`
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-
-
-
-## DevOps
-
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## Tools
-
-
-![](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+**Development**
+`Git` · `Docker` · `REST APIs` · `Next.js` · `Flask`
 
 ---
 
-# Connect with me
+## 💼 Professional Experience
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreekeshiyer)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreekeshiyer)
+### JPMorganChase — Software Engineer II
+
+**2023 – 2026 · Mumbai, India**
+
+Worked on data engineering and technology initiatives within Corporate & Investment Bank, with a focus on regulatory technology and financial-market data.
+
+* Built **Python data engineering workflows** for trade eligibility and transaction identification across APAC regulatory requirements.
+* Migrated **15M+ trades** to an AWS-based data pipeline using S3, Lambda and RDS.
+* Built **agentic AI workflows** to accelerate a legacy database decommissioning programme, contributing to over **$15K/year in infrastructure savings**.
+* Improved FX trade-booking workflows, reducing operational processing time by approximately **4 hours per week**.
+* Worked on regulatory data feeds supporting global commodities de-risking initiatives.
+
+---
+
+## 🔬 Currently Exploring
+
+* **Data Engineering & Distributed Systems**
+* **Applied AI and LLM-based systems**
+* **Cloud-native architectures**
+* **Graph Neural Networks + Reinforcement Learning**
+* **Machine Learning for real-world optimisation problems**
+
+---
+
+## 🏆 Highlights
+
+* 🥇 Winner — **JPMorganChase Code for Good 2022**
+* 🏅 Quarterly Excellence Award — **JPMorganChase, Q4 2025**
+* 🌍 Top 50 Asia Regional — **AWS DeepRacer 2024**
+* ☁️ **AWS Certified Solutions Architect – Associate**
+* ☁️ **AWS Certified Cloud Practitioner**
+* 📄 IEEE publication — *Data Validation for Eligibility Criteria and Death Benefit Claims for Insurance Policies*
+
+---
+
+## 🎓 Education
+
+**Trinity College Dublin**
+MSc Computer Science — Data Science · 2026–2027
+
+**Vivekanand Education Society's Institute of Technology**
+BE Information Technology · CGPA: 8.98/10 · 2019–2023
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://www/linkedin.com/in/sreekeshiyer) · [Email](mailto:sreekeshiyer@gmail.com) · [Personal Website](https://www.sreekeshiyer.com)
+
 
